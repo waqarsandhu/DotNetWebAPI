@@ -1,0 +1,65 @@
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\bin\Debug\net8.0\appsettings.json
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\bin\Debug\net8.0\E-Commerce Store.exe
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\bin\Debug\net8.0\E-Commerce Store.deps.json
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\bin\Debug\net8.0\E-Commerce Store.runtimeconfig.json
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\bin\Debug\net8.0\E-Commerce Store.dll
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\bin\Debug\net8.0\E-Commerce Store.pdb
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.csproj.AssemblyReference.cache
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.AssemblyInfoInputs.cache
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.AssemblyInfo.cs
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.csproj.CoreCompileInputs.cache
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\staticwebassets\msbuild.E-Commerce Store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\staticwebassets\msbuild.build.E-Commerce Store.props
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce Store.props
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-Commerce Store.props
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\scopedcss\bundle\E-Commerce Store.styles.css
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commer.99DAC2F8.Up2Date
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.dll
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\refint\E-Commerce Store.dll
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.pdb
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.genruntimeconfig.cache
+C:\Users\Nouman Gujjar\source\repos\E-Commerce Store\E-Commerce Store\obj\Debug\net8.0\ref\E-Commerce Store.dll
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\bin\Debug\net8.0\appsettings.Development.json
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\bin\Debug\net8.0\appsettings.json
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\bin\Debug\net8.0\E-Commerce Store.exe
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\bin\Debug\net8.0\E-Commerce Store.deps.json
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\bin\Debug\net8.0\E-Commerce Store.runtimeconfig.json
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\bin\Debug\net8.0\E-Commerce Store.dll
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\bin\Debug\net8.0\E-Commerce Store.pdb
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.csproj.AssemblyReference.cache
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.AssemblyInfoInputs.cache
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.AssemblyInfo.cs
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.csproj.CoreCompileInputs.cache
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.MvcApplicationPartsAssemblyInfo.cs
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.MvcApplicationPartsAssemblyInfo.cache
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.sourcelink.json
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\staticwebassets.build.json
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\staticwebassets.development.json
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\staticwebassets\msbuild.E-Commerce Store.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\staticwebassets\msbuild.build.E-Commerce Store.props
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce Store.props
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-Commerce Store.props
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\staticwebassets.pack.json
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\scopedcss\bundle\E-Commerce Store.styles.css
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commer.99DAC2F8.Up2Date
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.dll
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\refint\E-Commerce Store.dll
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.pdb
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\E-Commerce Store.genruntimeconfig.cache
+E:\DotNetWebAPI\E-commerce Store\E-Commerce Store\obj\Debug\net8.0\ref\E-Commerce Store.dll
