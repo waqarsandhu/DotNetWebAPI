@@ -1,4 +1,12 @@
+using E_Commerce_Store.Models;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.SqlServer;
+using System.Text;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<CommerceDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ECommerceDB")));
 
 // Add services to the container.
 

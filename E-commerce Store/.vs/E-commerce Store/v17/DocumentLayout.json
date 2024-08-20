@@ -1,12 +1,224 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\DotNetWebAPI\\E-commerce Store\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|e:\\dotnetwebapi\\e-commerce store\\e-commerce store\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|solutionrelative:e-commerce store\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|e:\\dotnetwebapi\\e-commerce store\\e-commerce store\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|solutionrelative:e-commerce store\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|e:\\dotnetwebapi\\e-commerce store\\e-commerce store\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|solutionrelative:e-commerce store\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|e:\\dotnetwebapi\\e-commerce store\\e-commerce store\\models\\geolocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|solutionrelative:e-commerce store\\models\\geolocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|e:\\dotnetwebapi\\e-commerce store\\e-commerce store\\models\\commercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|solutionrelative:e-commerce store\\models\\commercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|e:\\dotnetwebapi\\e-commerce store\\e-commerce store\\models\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|solutionrelative:e-commerce store\\models\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|e:\\dotnetwebapi\\e-commerce store\\e-commerce store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|solutionrelative:e-commerce store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|e:\\dotnetwebapi\\e-commerce store\\e-commerce store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|solutionrelative:e-commerce store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|e:\\dotnetwebapi\\e-commerce store\\e-commerce store\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|solutionrelative:e-commerce store\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|e:\\dotnetwebapi\\e-commerce store\\e-commerce store\\dto\\namedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|solutionrelative:e-commerce store\\dto\\namedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|e:\\dotnetwebapi\\e-commerce store\\e-commerce store\\dto\\geolocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|solutionrelative:e-commerce store\\dto\\geolocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|e:\\dotnetwebapi\\e-commerce store\\e-commerce store\\dto\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C46DFD-0B2F-42FC-AB69-47255F5BAA6C}|E-Commerce Store\\E-Commerce Store.csproj|solutionrelative:e-commerce store\\dto\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "E-commerce Store\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "E-commerce Store\\Controllers\\UserController.cs*",
+              "ViewState": "AQIAANoAAAAAAAAAAAAwwOIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:10:44.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GeolocationDto.cs",
+              "DocumentMoniker": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\DTO\\GeolocationDto.cs",
+              "RelativeDocumentMoniker": "E-commerce Store\\DTO\\GeolocationDto.cs",
+              "ToolTip": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\DTO\\GeolocationDto.cs",
+              "RelativeToolTip": "E-commerce Store\\DTO\\GeolocationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:10:20.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddressDto.cs",
+              "DocumentMoniker": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\DTO\\AddressDto.cs",
+              "RelativeDocumentMoniker": "E-commerce Store\\DTO\\AddressDto.cs",
+              "ToolTip": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\DTO\\AddressDto.cs",
+              "RelativeToolTip": "E-commerce Store\\DTO\\AddressDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:09:23.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NameDto.cs",
+              "DocumentMoniker": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\DTO\\NameDto.cs",
+              "RelativeDocumentMoniker": "E-commerce Store\\DTO\\NameDto.cs",
+              "ToolTip": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\DTO\\NameDto.cs",
+              "RelativeToolTip": "E-commerce Store\\DTO\\NameDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:08:56.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\DotNetWebAPI\\E-commerce Store\\E-Commerce Store\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "E-Commerce Store\\DTO\\UserDto.cs",
+              "ToolTip": "E:\\DotNetWebAPI\\E-commerce Store\\E-Commerce Store\\DTO\\UserDto.cs",
+              "RelativeToolTip": "E-Commerce Store\\DTO\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:07:46.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\appsettings.json",
+              "RelativeDocumentMoniker": "E-commerce Store\\appsettings.json",
+              "ToolTip": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\appsettings.json",
+              "RelativeToolTip": "E-commerce Store\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T12:05:48.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Geolocation.cs",
+              "DocumentMoniker": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\Models\\Geolocation.cs",
+              "RelativeDocumentMoniker": "E-commerce Store\\Models\\Geolocation.cs",
+              "ToolTip": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\Models\\Geolocation.cs",
+              "RelativeToolTip": "E-commerce Store\\Models\\Geolocation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:01:32.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "E-commerce Store\\Models\\Address.cs",
+              "ToolTip": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\Models\\Address.cs",
+              "RelativeToolTip": "E-commerce Store\\Models\\Address.cs",
+              "ViewState": "AQIAAAUAAAAgMzMzMzM7wA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:01:10.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Name.cs",
+              "DocumentMoniker": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\Models\\Name.cs",
+              "RelativeDocumentMoniker": "E-commerce Store\\Models\\Name.cs",
+              "ToolTip": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\Models\\Name.cs",
+              "RelativeToolTip": "E-commerce Store\\Models\\Name.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:00:50.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\Models\\User.cs",
+              "RelativeDocumentMoniker": "E-commerce Store\\Models\\User.cs",
+              "ToolTip": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\Models\\User.cs",
+              "RelativeToolTip": "E-commerce Store\\Models\\User.cs",
+              "ViewState": "AQIAAAcAAADQZWZmZmY2wAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:59:20.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\Program.cs",
+              "RelativeDocumentMoniker": "E-commerce Store\\Program.cs",
+              "ToolTip": "E:\\DotNetWebAPI\\E-commerce Store\\E-commerce Store\\Program.cs",
+              "RelativeToolTip": "E-commerce Store\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:34:48.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommerceDbContext.cs",
+              "DocumentMoniker": "E:\\DotNetWebAPI\\E-commerce Store\\E-Commerce Store\\Models\\CommerceDbContext.cs",
+              "RelativeDocumentMoniker": "E-Commerce Store\\Models\\CommerceDbContext.cs",
+              "ToolTip": "E:\\DotNetWebAPI\\E-commerce Store\\E-Commerce Store\\Models\\CommerceDbContext.cs",
+              "RelativeToolTip": "E-Commerce Store\\Models\\CommerceDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:34:32.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
